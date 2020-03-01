@@ -3,41 +3,41 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Thousand miles journey of D',
+  subtitle: 'Blog by Duy Huynh',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: '',
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
+      label: 'Blogs',
       path: '/'
+    },
+    {
+      label: 'Profile',
+      path: '/pages/profile'
     },
     {
       label: 'About me',
       path: '/pages/about'
-    },
-    {
-      label: 'Contact me',
-      path: '/pages/contacts'
     }
   ],
   author: {
-    name: 'John Doe',
-    photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    name: 'Duy Huynh',
+    photo: '/avatar.jpg',
+    bio: 'Product Development Engineer',
     contacts: {
-      email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
+      email: 'duyhuynhdev@gmail.com',
+      facebook: '',
+      telegram: '',
+      twitter: '',
+      github: 'hpduy',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
+      linkedin: 'hpduy',
+      instagram: '',
       line: '',
       gitlab: '',
       weibo: '',
