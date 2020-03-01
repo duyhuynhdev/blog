@@ -26,7 +26,7 @@ module.exports = {
   ],
   author: {
     name: 'Duy Huynh',
-    photo: '/avatar.jpg',
+    photo: '/photo.jpg',
     bio: 'Product Development Engineer',
     contacts: {
       email: 'duyhuynhdev@gmail.com',
