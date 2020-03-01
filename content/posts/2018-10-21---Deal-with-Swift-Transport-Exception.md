@@ -1,6 +1,6 @@
 ---
 title: "Deal with Swift-Transport-Exception when sending Gmail from Laravel application"
-date: "2018-10-21 13:50:53.169Z"
+date: "2018-10-21 13:50:53.169+0900"
 template: "post"
 draft: false
 slug: "deal-with-Swift-Transport-Exception"

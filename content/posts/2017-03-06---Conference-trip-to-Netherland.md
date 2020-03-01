@@ -1,6 +1,6 @@
 ---
 title: Conference trip to Netherlands
-date: "2017-03-06T23:15:53.121Z"
+date: "2017-03-06T23:15:53.121+0900"
 template: "post"
 draft: false
 slug: "conference-trip-to-netherland"

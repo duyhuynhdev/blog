@@ -1,6 +1,6 @@
 ---
 title: How to deploy Laravel application to apache in CentOS 7
-date: "2018-10-21T13:59:56Z"
+date: "2018-10-21T13:59:56+0900"
 template: "post"
 draft: false
 slug: "How-to-deploy-Laravel-application-to-apache-CentOS-7"

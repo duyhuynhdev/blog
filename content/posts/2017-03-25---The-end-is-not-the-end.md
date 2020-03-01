@@ -1,6 +1,6 @@
 ---
 title: The end is not the end
-date: "2017-03-25T23:01:41.19Z"
+date: "2017-03-25T23:01:41.19+0900"
 template: "post"
 draft: false
 slug: "The-end-is-not-the-end"
