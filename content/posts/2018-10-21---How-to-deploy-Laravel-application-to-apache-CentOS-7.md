@@ -10,6 +10,7 @@ tags:
   - "PHP"
   - "CentOS"
   - "Tech"
+  - "English"
 description: "This post will guide you how to deploy multiple Laravel project on the same Linux server."
 socialImage: "/media/image-1.jpg"
 ---

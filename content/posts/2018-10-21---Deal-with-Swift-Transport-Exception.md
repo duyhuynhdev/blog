@@ -10,6 +10,7 @@ tags:
   - "PHP"
   - "CentOS"
   - "Tech"
+  - "English"
 description: "When you use Gmail to send a mail from Laravel server without the permisson you will get this error. This my quick solution to deal with it."
 socialImage: "/media/movable-type.jpg"
 ---

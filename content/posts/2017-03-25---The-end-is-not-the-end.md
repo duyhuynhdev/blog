@@ -9,6 +9,7 @@ tags:
   - "Diary"
   - "Japan"
   - "Life"
+  - "English"
 description: "My coming-suddenly mood when I joint my seniors' graduation ceremony"
 socialImage: "/media/the-end-is-not-the-end.jpg"
 ---

@@ -9,6 +9,7 @@ tags:
   - "Life"
   - "Travel"
   - "Research"
+  - "English"
 description: "My memories of the second foreign country I have traveled to. I got there in my very first research paper presentation. Go more will learn more: although the trip is only a few days, it saves a trail in my soul."
 socialImage: "/media/conference-trip-to-netherland.jpg"
 ---

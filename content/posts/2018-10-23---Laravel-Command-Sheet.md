@@ -10,6 +10,7 @@ tags:
   - "PHP"
   - "Tips"
   - "Tech"
+  - "English"
 description: "The cheat sheet command that we often use in Laravel."
 socialImage: "/media/gutenberg.jpg"
 ---
