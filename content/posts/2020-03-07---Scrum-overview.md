@@ -8,7 +8,7 @@ category: "Scrum"
 tags:
   - "Scrum"
   - "Vietnamese"
-description: "This post is vietnamese post which shows an overview of scrum - management framework. It shows you a general knowledge about scrum such as: What is scrum? what's it uses for? and how can we use it?"
+description: "This post is a vietnamese post which gives an overview of scrum - management framework. It'll show you a general knowledge about scrum such as: What is scrum? what's it uses for? and how can we use it?"
 
 socialImage: "/media/scrum-overview/scrum.png"
 ---
@@ -24,9 +24,9 @@ socialImage: "/media/scrum-overview/scrum.png"
 
 ## Lời nói đầu
 
-Bài đăng này được viết với mục đích lưu trữ kiến thức cá nhân và kinh nghiệm của mình sau 1 năm làm việc trong môi trường Agile. Trước đây mình có đọc và cũng biết nhiều về Scrum nhưng thực sự có những môi trường trông có vẻ là Scrum nhưng thực chất không phải là Scrum. 
+Bài đăng này được viết với mục đích lưu trữ kiến thức cá nhân và kinh nghiệm của mình sau 1 năm làm việc trong môi trường Agile. Trước đây mình có đọc và cũng biết nhiều về Scrum nhưng thực sự có những môi trường cố áp dụng Scrum (thậm chí là những cty mình từng làm) nhưng thực chất không phải là Scrum.
 
-Và điều hiển nhiên là học Scrum thôi là chưa đủ, vì ở nhiều môi trường và hoàn cảnh khách nhau, Scrum được tổ chức và áp dụng khác nhau. Do đó, theo ý kiến cá nhân của mình, Q&A lúc nào cũng là phần cần thiết và quan trọng nhất trong quá trình học Scrum vì nó có thể đưa ra pain-point của từng cá nhân và giải pháp cho chúng. 
+Và điều hiển nhiên là học Scrum thôi là chưa đủ, vì ở nhiều môi trường và hoàn cảnh khách nhau, Scrum được tổ chức và áp dụng khác nhau. Do đó, theo ý kiến cá nhân của mình, Q&A lúc nào cũng là phần cần thiết và quan trọng nhất trong quá trình học Scrum vì nó có thể đưa ra những pain-point cụ thể và giải pháp cho chúng. 
 
 Hiện tại mình được phép thử mình ở vị trí Scrum Master của công ty, hay có thể gọi mình là Scrum Master student ở thời điểm này vì role Scrum Master khá là power trong framework mà bản thân mình hiện tại k đủ authority (thẩm quyền) để làm việc đó. Do đó mình cũng xin chia sẽ kiến thức về Scrum ở blog cá nhân trong khi học tập và áp dụng để mọi nguời cùng tham khảo và góp ý.
 
@@ -34,16 +34,16 @@ Hiện tại mình được phép thử mình ở vị trí Scrum Master của c
 
 Mình đã nghe khá nhiều về Scrum cũng như Agile, và vài năm trước đây khi chúng được nhắc đến bản thân mình luôn nghĩ đó là mô hình quản lý task bao gồm 4 giai đoạn: backlog, todo, doing, and done, mà không biết đó chỉ là một phần nhỏ trong framework. 
 
-Không dừng lại ở đó, mọi người có thể biết về những tuyên ngôn và những định nghĩa trong Scrum chẳng hạn như: __Sprint__, __Cross-functional__ (đa chức năng), hay __Self-organizarion__ (tự quản lý) nhưng đa phần sẽ không hiểu về ý nghĩa đằng sau của nó hoặc vì sao phải có những định nghĩa đó. 
+Không dừng lại ở đó, mọi người có thể biết về những tạo tác và những định nghĩa trong Scrum chẳng hạn như: __Sprint__, __Cross-functional__ (đa chức năng), hay __Self-organizarion__ (tự quản lý) nhưng đa phần sẽ không hiểu về ý nghĩa đằng sau của chúng hoặc vì sao phải có chúng. 
 
 Vậy thực sự bản thân Scrum là gì?
 
 ### 1. Scrum là một management framework 
 
-* Đây là một mô hình quản lý dành cho việc phát triển những incremental product hay còn gọi là những sản phẩm đang trên đà phát triển. Những sản phẩm này luôn có sự thay đổi __thường xuyên__ về yêu cầu chức năng từ phía khách hàng và Scrum có những chức năng dùng để đáp ứng cho việc thay đổi đó. Việc này khác hoàn toàn mô hình truyền thống _Waterfall_
+* Đây là một mô hình quản lý dành cho việc phát triển những incremental product hay còn gọi là những sản phẩm được phát triển qua từng giai đoạn. Những sản phẩm này luôn có sự thay đổi __thường xuyên__ về yêu cầu chức năng từ phía khách hàng và Scrum có những phương thức vận hành có thể đáp ứng cho việc thay đổi đó. Việc này khác hoàn toàn mô hình truyền thống _Waterfall_
 * Scrum thường dùng 1 hay nhiều development team (nhóm phát triển) khác nhau tuỳ theo kích thước của công ty. Những nhóm này thường chỉ gồm 7 người ở mức lí tưởng. Việc áp dụng 1 hay nhiều team sẽ gặp hoàn toàn những vấn đề khác nhau. Mình sẽ đề cập và giải thích điều này trong 1 bài viết khác.
 * Scrum đưa ra cấu trúc về: __roles__ (vai trò cá nhân trong team), __meetings__ (các buổi họp Scrum), __rules__ (quy tắc), và __artifacts__(một số tạo tác). Các development teams phải có trách nhiệm trong việc tạo dựng và điều chỉnh mọi quy trình của team theo sát framework này.
-* Quan trọng hơn cả, Scrum sử dụng vòng lặp với thời gian cố định trong việc phát triển, và vòng lặp này được gọi là __Sprint__. Độ dài (thời gian) của một Sprint thường __không vượt quá 30 ngày__ và càng ngắn càng tốt. Đầu ra ở một Sprint là một sản phẩm dùng được (potential releasable product) và được test kỹ càng để có thể lấy feedback (phản hồi) từ users. Đó là lí do tại sao Sprint càng ngắn càng tốt. Với một Sprint ngắn chúng ta có thể nhận được feedback từ người dùng và điều chỉnh sản phẩm một cách sớm nhất. 
+* Quan trọng hơn cả, Scrum sử dụng vòng lặp với thời gian cố định trong việc phát triển, và vòng lặp này được gọi là __Sprint__. Độ dài thời gian của một Sprint thường __không vượt quá 30 ngày__ và càng ngắn càng tốt. Đầu ra ở một Sprint là một sản phẩm dùng được (potential releasable product) và được test kỹ càng để có thể lấy feedback (phản hồi) từ users. Đó là lí do tại sao Sprint càng ngắn càng tốt. Với một Sprint ngắn chúng ta có thể nhận được feedback từ người dùng và điều chỉnh sản phẩm một cách sớm nhất. 
 
 ### 2. Scrum là giải pháp thay thế cho mô hình Waterfall
 
@@ -150,7 +150,7 @@ Trong Scrum chúng ta có 3 vai trò chính: Product Owner, Development team , v
 	* Vì vậy mỗi thành viên cần phải biết nhiều mặt để tạo sự linh động trong team (vd anh A chuyên làm front end nghỉ bệnh, and B có thể thay thế anh A nhận task đấy mặc dù anh B thường làm Test)
 * Thảo luận về những gì sẽ hoàn thành trong sprint cùng với PO tại Sprint planning meeting ở mỗi đấu sprint
 * Có quyền tự chủ lên kế hoạch làm sao để đạt được kết quả tốt mỗi sprint 
- 
+
 ## Scrum Meetings - Những cuộc họp Scrum
 
 ## Scrum Artifacts - Những tạo tác trong Scrum 
