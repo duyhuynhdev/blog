@@ -31,7 +31,7 @@ socialImage: "/media/japanese-grammar.png"
 
 ## 1. Cấu trúc câu cơ bản
 
-* Cấu trúc câu trong tiếng nhật hoàn toàn khác mẫu câu trong tiếng Anh hay tiếng Việt.
+* Cấu trúc câu trong tiếng Nhật hoàn toàn khác mẫu câu trong tiếng Anh hay tiếng Việt.
 * Trong tiếng Anh chúng ta sử dụng cấu trúc: __Subject-Verb-Object (SVO)__ [Chủ ngữ - động từ - tân ngữ] 
 * Trong tiếng Nhật cấu trúc câu thường là __Subject-Object-Verb (SOV)__ [Chủ ngữ - tân ngữ - động từ]
 * Ví dụ: 
@@ -43,40 +43,50 @@ socialImage: "/media/japanese-grammar.png"
         * (S-O-V)
         * watashi __wa__ – pan __o__ – tabemasu
         * Tôi - bánh - ăn
-* Chú ý rằng những từ _wa_ và _o_ được gọi là trợ từ
-* Việc tạo câu tiếng nhật giống như bạn đi xác đinh từng từ và sắp xếp chúng theo cấu trúc
-* Nhớ rằng chủ ngữ (S) thường đứng trước tiên, động từ (V) đứng sau cùng và mọi thứ nằm ở giữa
+* Chú ý rằng những từ _wa_ và _o_ được gọi là trợ từ.
+* Việc tạo câu trong tiếng Nhật cũng giống như bạn đi xác đinh từng từ và sắp xếp chúng theo cấu trúc.
+* Nhớ rằng chủ ngữ (S) thường đứng trước tiên, động từ (V) đứng sau cùng và mọi thứ nằm ở giữa.
 
 ## 2. Hệ từ です
 
 * です desu là một hệ từ (một từ được sử dụng để liên kết chủ đề của câu với một vị ngữ).
-* Nó dùng để chỉ chủ ngữ là một thứ gì đó hoặc không phải là một thứ gì đó
-* Bạn có thể coi đó giống động từ to be trong tiếng anh - am , is, areare
-* Nó cũng được dùng để đánh đồng thứ này với thứ khac
+* Nó dùng để chỉ chủ ngữ là một thứ gì đó, hoặc không phải là một thứ gì đó.
+* Bạn có thể coi đó giống động từ to be trong tiếng anh - am , is, are.
+* Nó cũng được dùng để đánh đồng thứ này với thứ khác.
 * Ví dụ:
   * ゾウ は 大きい です。
   * zou __wa__ ookii desu.
   * Elephants - big - are (Elephans are big)
-  * Những on voi -  to - thì (Những con voi thì to)
-* Hầu hết những lần mà bạn muốn sử dụng động từ "to be" thì bạn sẽ sử dụng です.
+  * Những con voi -  to - thì (Những con voi thì to)
+* Hầu hết những khi mà bạn muốn sử dụng động từ "to be" hay "thì, là, ở" trong câu thì bạn sẽ sử dụng です.
 
 ### だ là một hệ từ giản dị hơn です
 
-* Khi mới bắt đầu bạn thường dùng です khi nói. Tuy nhiên, trong đời sống người ta dùng 1 từ ít trang trọng hơn đó là だ. だ được sử dụng giữa bạn bè với nhau, hoặc trong các hoàn cảnh không quá trang trọng
+* Khi mới bắt đầu bạn thường dùng です khi nói. Tuy nhiên, trong đời sống người ta dùng 1 từ ít trang trọng hơn đó là だ. 
+* だ được sử dụng giữa bạn bè với nhau, hoặc trong các hoàn cảnh không quá trang trọng.
 * Ví dụ:
   * これ は ねこ __です__。 (Đây là con mèo)
-  Sẽ có nghĩa tương tự như:
+  * Sẽ có nghĩa tương tự như:
   * これ は ねこ __だ__。 (Đây là con mèo)
 
 ### Tóm lại:
-* です giống như to be trong tiếng ạnh ( am, is, are)
-* Luôn luôn ở cuối câu
-* Nó không có biến thể trong ngôi thứ như to be ở thì hiện tại 
-* Thường đụợc phát âm là dess hơn là desu
-* Dạng đơn giản bình dân hơn là だ
+* です giống như to be trong tiếng Anh (am, is, are)
+* Vị trí luôn luôn ở cuối câu.
+* Ở thì hiện tại, nó không có biến thể trong ngôi thứ như to be.
+* Thường đụợc phát âm là dess hơn là desu.
+* Dạng đơn giản bình dân hơn của です là だ.
 
 ## 3. Và - と、そして
 
+* Có nhiều cách để dùng "Và" ( để nối từ hoặc là câu):
+  * と (to) – dùng để nối các danh từ với nhau 
+    * Ví dụ: わたし　は　日本語　__と__　英語　__と__　フランス語　が　話せます。
+    * watashi wa nihongo __to__ eigo __to__ furansugo ga hanasemasu.
+    * Tôi có thể nói được tiếng Nhật __và__ tiếng Anh __và__ tiếng Pháp
+  * そして (soshite) - dùng để kết nối câu
+    * Ví dụ: 新しい本を買いました。　__そして__今日から読みます。
+    * atarashii hon o kaimashita. __soshite__ kyou kara yomimasu.
+    * Tôi đã mua cuốn sách mới. __Và__, từ hôm nay, tôi sẽ đọc nó.
 ## 4. Hai dạng động từ cơ bản
 
 ## 5. Lập câu hỏi -  か
